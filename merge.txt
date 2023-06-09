@@ -1,1 +1,2 @@
 This is for merging.
+Ths is merging example from master.
