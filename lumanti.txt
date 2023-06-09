@@ -10,3 +10,7 @@ again heelo
 yoyo solo polo
 
 merge example
+
+
+stash merge
+stash example
