@@ -1,1 +1,2 @@
 This is for merging.
+Merging example from feat/merge-example.
